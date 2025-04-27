@@ -1,0 +1,19 @@
+{
+  "name": "startup-webpage",
+  "version": "1.0.0",
+  "description": "A simple responsive website using HTML, JavaScript, and Tailwind CSS with bilingual support.",
+  "main": "src/main.js",
+  "scripts": {
+    "build": "postcss src/tailwind.css -o public/tailwind.css",
+    "watch": "postcss src/tailwind.css -o public/tailwind.css --watch"
+  },
+  "dependencies": {
+    "tailwindcss": "^2.2.19",
+    "postcss": "^8.4.6",
+    "autoprefixer": "^10.4.2"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

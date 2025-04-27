@@ -1,0 +1,19 @@
+{
+  "home": {
+    "title": "Inicio",
+    "welcome": "Bienvenido a nuestro sitio web."
+  },
+  "services": {
+    "title": "Servicios",
+    "description": "Ofrecemos una variedad de servicios para ayudar a su negocio a crecer."
+  },
+  "about": {
+    "title": "Acerca de [NOMBRE DE LA STARTUP]",
+    "content": "Somos una startup dedicada a proporcionar soluciones innovadoras."
+  },
+  "contact": {
+    "title": "Contacto",
+    "email": "Correo electrónico: contacto@startup.com",
+    "phone": "Teléfono: +34 123 456 789"
+  }
+}

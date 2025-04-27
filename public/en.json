@@ -1,0 +1,24 @@
+{
+  "home": {
+    "title": "Welcome to Our Startup",
+    "description": "We are dedicated to providing innovative solutions to help your business grow."
+  },
+  "services": {
+    "title": "Our Services",
+    "service1": "Consulting",
+    "service2": "Web Development",
+    "service3": "Marketing Strategy"
+  },
+  "about": {
+    "title": "About Us",
+    "content": "At [STARTUP NAME], we believe in the power of technology to transform businesses. Our team of experts is here to guide you through every step of your journey."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "email": "info@startupname.com",
+    "phone": "+1 (555) 123-4567"
+  },
+  "languageSwitcher": {
+    "label": "Switch Language"
+  }
+}
